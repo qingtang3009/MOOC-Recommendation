@@ -1,0 +1,9 @@
+{
+    "enroll": 0,
+    "refer": 1,
+    "offer": 2,
+    "teach": 3,
+    "in": 4,
+    "contain": 5,
+    "watch": 6
+}
